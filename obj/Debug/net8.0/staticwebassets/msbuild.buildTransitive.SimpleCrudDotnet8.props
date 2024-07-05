@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SimpleCrudDotnet8.props" />
+</Project>

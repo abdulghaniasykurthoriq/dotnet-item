@@ -1,0 +1,6 @@
+@SimpleCrudDotnet8_HostAddress = http://localhost:5293
+
+GET {{SimpleCrudDotnet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
